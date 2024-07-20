@@ -4,11 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f52ace2-f503-4b6b-9d4d-fdd2cad449ce" name="Changes" comment="" />
+    <list default="true" id="6f52ace2-f503-4b6b-9d4d-fdd2cad449ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexlet_django_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hexlet_django_blog/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexlet_django_blog/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/hexlet_django_blog/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hexlet_django_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hexlet_django_blog/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -23,9 +39,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/alaev/hexlet-django-blog",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -42,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721148906116</updated>
-      <workItem from="1721148909169" duration="2813000" />
+      <workItem from="1721148909169" duration="8331000" />
     </task>
     <servers />
   </component>
